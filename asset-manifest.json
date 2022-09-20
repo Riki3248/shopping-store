@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopping-store.git/static/css/main.5b68b5db.css",
+    "main.js": "/shopping-store.git/static/js/main.34b4602b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shopping-store.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ball.jpg": "/shopping-store.git/static/media/ball.12367cb66ad19000ad62.jpg",
+    "static/media/primeicons.svg": "/shopping-store.git/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/shopping-store.git/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/shopping-store.git/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/shopping-store.git/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "index.html": "/shopping-store.git/index.html",
+    "main.5b68b5db.css.map": "/shopping-store.git/static/css/main.5b68b5db.css.map",
+    "main.34b4602b.js.map": "/shopping-store.git/static/js/main.34b4602b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shopping-store.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b68b5db.css",
+    "static/js/main.34b4602b.js"
+  ]
+}
