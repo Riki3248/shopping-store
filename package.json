@@ -10,14 +10,14 @@
     "swagger-autogen": "^2.21.5",
     "swagger-ui-express": "^4.5.0"
   },
-  "homepage": "https://Riki3248.github.io/react-gh-pages",
+
+
 
   "name": "node",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
